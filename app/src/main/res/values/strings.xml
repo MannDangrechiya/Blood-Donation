@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+    <string-array name="blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string name="gender_select_label">Select Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="prefer_not_to_say">Prefer not to say</string>
+
+    <!-- Accessibility content descriptions -->
+    <string name="gender_male_desc">Select male gender</string>
+    <string name="gender_female_desc">Select female gender</string>
+    <string name="gender_other_desc">Select other gender</string>
+    <string name="gender_prefer_not_say_desc">Prefer not to disclose gender</string>
+</resources>
